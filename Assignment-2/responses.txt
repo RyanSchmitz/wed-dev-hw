@@ -1,0 +1,7 @@
+* Data travels through the internet in packets. These are often are broken down into bits if the data is too large. These packets contain the information for the data.
+
+* An IP address is unique to each computer on a network. Computers use the DNS to access the web via IP addresses. It can be compared to a telephone operator directing someone through to a phone.
+
+* Not only is a cookie a sweet treat, but it also acts as a way for a website to store the preferences of its users. The cookies are stored in users' computer temporarily or permanently.
+
+* The three basic parts of a URL are the: protocol, domain name, and the path 
