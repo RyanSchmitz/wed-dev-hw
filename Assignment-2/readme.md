@@ -6,4 +6,4 @@ My [responses](./responses.txt)
 ### Work Cycle
 * I'm not going to lie, this assignment was a bit challenging for me. Prior to this course, the only web development experience I had was through a website that gave little control over HTML code. I took this assignment a little bit slow, and had a few issues along the way.
 
-![Screenshot of my Progress](./images/progressagain.png)
+![Screenshot of my Progress](./Images/progressagain.png)
