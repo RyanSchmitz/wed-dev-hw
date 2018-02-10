@@ -15,4 +15,4 @@ The Wayback Machine is such an awesome resource. I was able to re-live some of m
 
 This assignment was fairly straight-forward for me. It looks like I am starting to get the hang of this thing! I really appreciate the tutorial that comes before each assignment, I know I would be in the dark without it. It was also nice starting with Markdown, then working my way into HTML. I was more prepared having the previous experience.
 
-![Progress](./images/screenshot.png)
+![Progress](./Project-1/Images/screenshot.png)
