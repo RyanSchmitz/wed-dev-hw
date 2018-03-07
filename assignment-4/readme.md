@@ -9,4 +9,4 @@ Every time I am surfing the web, I encounter many different types of form elemen
 ## Work Cycle...
 This week I had to split my work in two parts, as there just wasn't enough time to complete the tasks in one sitting. I noticed that after I had completed the website, there were some mistakes. I thankfully pushed past my inclination to give up, and I toyed with the html until everything looked okay. It was helpful to be able to tweak different elements until I achieved the outcome I was looking for.
 
-![Screenshot of my Progress](./images/progress.png)
+![Screenshot of my Progress](./images/Progress.png)
