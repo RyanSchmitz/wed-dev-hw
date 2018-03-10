@@ -6,4 +6,4 @@ Self-hosting media causes many issues to arise. There is a huge cost when it com
 
 This week's work was much better than the last. I breezed through this assignment. It still took some time of course, but I was able to solve issues with very few hiccups.
 
-![Screenshot of my Progress](./images/Progress.png)
+![Screenshot of my Progress](./images/progress.png)
