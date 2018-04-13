@@ -1,0 +1,45 @@
+#Photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#Intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#Theme {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+#Photo {
+  background-color: #660066;
+  width: 700px;
+  height: 700px;
+}
+p {
+  background-color: #ffcc00;
+  border: 5px solid #660066;
+}
+.styled {
+  opacity: 0.75;
+}
+.styled {
+  border: 25px dotted #660066;
+  padding: 2px;
+}
+.Photo {
+  width: 100px;
+  border: 30px groove #ffcc00;
+  padding: 25px;
+  margin: 25px;
+}
+
+/*
+I had some trouble with selectors, but I think I eventually got the hang of it.
+You'll notice there is a decent amount of CSS in my index file.
+*/
