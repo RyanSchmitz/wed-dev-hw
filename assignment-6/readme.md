@@ -5,4 +5,4 @@ The colors that I used were gold, purple, and pastel pink (HEX CODES: #660066, #
 
 This assignment was challenging, and I faced a number of obstacles, and if I'm being honest, I'm not sure if I did everything correctly. The page turned out well, I may have gone alternative routes to achieve something that could have been done a better way.
 
-![Screenshot of my Progress](./images/progress.png)
+![Screenshot of my Progress](./images/progess.png)
