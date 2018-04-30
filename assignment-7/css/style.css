@@ -1,0 +1,42 @@
+html {
+  padding: 2;
+}
+
+#body {
+  padding: 2;
+  margin: 0 0 0 0;
+  background-color: #bfbfbf;
+}
+
+#body {
+  border: 25px ridge #666666;
+  padding: 2px;
+}
+
+#title {
+  border: 25px groove #666666;
+  padding: 2px;
+}
+
+
+.button {
+  font-size: 1.5em;
+  color: white;
+  font-weight: 600;
+  background-color: black;
+  text-align: center;
+}
+
+.button:hover {
+  color: gray;
+  font-style: italic;
+}
+
+.button:active {
+  color: red;
+  background-color: blue;
+}
+
+.button:visited {
+  color: yellow;
+}
