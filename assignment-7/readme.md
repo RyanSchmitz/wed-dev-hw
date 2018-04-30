@@ -9,4 +9,4 @@ I chose the New York Times article because I wanted to experiment with a news-ba
 
 This week was fairly simple. I feel like I am still struggling with CSS a bit because there are many ways you can go about completing something, and if one thing is wrong, nothing will appear. Other than that, I have been handling it well.
 
-![Screenshot of my Progress](./images/progess.png)
+![Screenshot of my Progress](./images/progress.png)
