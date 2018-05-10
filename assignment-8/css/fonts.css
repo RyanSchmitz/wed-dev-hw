@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+
+@font-face {
+  font-family: 'Permanent-Marker';
+  src: url('./Fonts/PermanentMarker-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.oh {
+  font-family: Arial Black;
+}
